@@ -1,0 +1,10 @@
+header {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*17cqes0*_ga*MTUzNTU2NTY3OC4xNjUyOTE3NzQ4*_ga_3LRZM6TM9L*MTY1NTkxNjQ1OS4yMS4xLjE2NTU5MTY1NTMuNDQ.);
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
