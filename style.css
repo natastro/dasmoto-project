@@ -1,5 +1,9 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 header {
-    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*17cqes0*_ga*MTUzNTU2NTY3OC4xNjUyOTE3NzQ4*_ga_3LRZM6TM9L*MTY1NTkxNjQ1OS4yMS4xLjE2NTU5MTY1NTMuNDQ.);
+    background-image: url(https://github.com/natastro/dasmoto-project/blob/main/images/pattern.jpeg?raw=true);
 }
 
 h1 {
@@ -7,4 +11,25 @@ h1 {
     font-size: 100px;
     font-weight: bold;
     color: khaki;
+}
+
+h2 {
+    color: white;
+    font-size: 32px;
+}
+
+.brushesheading {
+    background-color: mediumspringgreen;
+}
+
+.framesheading {
+    background-color: lightcoral;
+}
+
+.paintheading {
+    background-color: skyblue;
+}
+
+.price {
+    color: blue;
 }
